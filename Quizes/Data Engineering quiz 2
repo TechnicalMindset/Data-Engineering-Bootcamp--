@@ -1,0 +1,175 @@
+Section 1: General Knowledge
+Question:
+What role do data integration tools play in the data engineer’s ecosystem?
+a) Conduct complex data analytics
+b) Combine data from multiple sources into a unified view that is accessed by data consumers to query and manipulate data
+c) Store high-volume day-to-day operational data in data repositories
+d) Cover the entire journey of data from source to destination
+
+Question:
+Which of these data sources is an example of semi-structured data?
+a) Network and web logs
+b) Emails
+c) Social media feeds
+d) Documents
+
+Question:
+Which one of the provided file formats is commonly used by APIs and web services to return data?
+a) XLS
+b) JSON
+c) XML
+d) Delimited file
+
+Question:
+What is an example of a relational database?
+a) Spreadsheet
+b) SQL Server
+c) XML
+d) Flat files
+
+Question:
+Which of the following languages is one of the most popular querying languages in use today?
+a) SQL
+b) Java
+c) R
+d) Python
+
+Section 2: Final Test (Level 2)
+Question:
+There are two main types of data repositories – transactional and analytical. For high-volume day-to-day operational data such as banking transactions, transactional (OLTP) systems are the ideal choice.
+a) True
+b) False
+
+Question:
+Which of the following is an example of unstructured data?
+a) Spreadsheets
+b) Video and audio files
+c) XML
+d) Zipped files
+
+Question:
+Which one of these file formats is independent of software, hardware, and operating systems, and can be viewed the same way on any device?
+a) PDF
+b) XLSX
+c) XML
+d) Delimited text file
+
+Question:
+Which data source can return data in plain text, XML, HTML, or JSON, among others?
+a) APIs
+b) Delimited text file
+c) XML
+d) PDF
+
+Question:
+In the data engineer’s ecosystem, languages are classified by type. What are shell and scripting languages most commonly used for?
+a) Querying data
+b) Automating repetitive operational tasks
+c) Manipulating data
+d) Building apps
+
+Section 3: Advanced Level (Level 4)
+Question:
+The term "data warehouse" exclusively refers to RDBMS and NoSQL databases used to collect, organize, and isolate data for analysis.
+a) True
+b) False
+
+Question:
+What is one of the reasons why relational databases are well-suited for OLTP applications?
+a) Support for inserting, updating, or deleting small amounts of data
+b) Designed for handling large-scale analytical queries
+c) Compatibility with NoSQL systems
+d) Allow unstructured data to be stored in flat files
+
+Question:
+Which NoSQL database type stores each record and its associated data in a single document and works well with analytics platforms?
+a) Key-value
+b) Columnar
+c) Document-based
+d) Graph
+
+Question:
+What type of data warehouse isolates a subset of data for a specific business function, purpose, or user group?
+a) Data Lake
+b) Data Mart
+c) Analytical Repository
+d) OLTP System
+
+Question:
+__________ is ideal for data lakes where transformations are applied after raw data has been loaded.
+a) ETL process (Extract-Transform-Load)
+b) ELT process (Extract-Load-Transform)
+c) Data replication process
+d) OLAP process (Online Analytical Processing)
+
+Question:
+Which of these statements explains what data integration is?
+a) Data integration covers extraction, transformation, merging, and delivery of quality data for analytical purposes.
+b) Data integration involves creating dashboards for business insights.
+c) Data integration is the process of storing all data in a centralized location.
+d) Data integration ensures that only structured data is processed.
+
+Answers Section
+Correct Answer:
+b) Combine data from multiple sources into a unified view that is accessed by data consumers to query and manipulate data
+Explanation: Data integration tools provide a unified view for querying and manipulating data collected from disparate sources.
+
+Correct Answer:
+b) Emails
+Explanation: Emails are semi-structured data as they mix organized properties with unstructured content.
+
+Correct Answer:
+b) JSON
+Explanation: JSON is widely used by APIs and web services to exchange data.
+
+Correct Answer:
+b) SQL Server
+Explanation: SQL Server is a relational database management system (RDBMS).
+
+Correct Answer:
+a) SQL
+Explanation: SQL is one of the most popular querying languages for relational databases.
+
+Correct Answer:
+a) True
+Explanation: OLTP systems are optimized for high-volume transaction processing.
+
+Correct Answer:
+b) Video and audio files
+Explanation: Unstructured data includes formats like video and audio files.
+
+Correct Answer:
+a) PDF
+Explanation: PDF files are independent of software, hardware, and operating systems.
+
+Correct Answer:
+a) APIs
+Explanation: APIs can return data in various formats, including plain text, XML, HTML, and JSON.
+
+Correct Answer:
+b) Automating repetitive operational tasks
+Explanation: Shell and scripting languages are ideal for automating repetitive operational tasks.
+
+Correct Answer:
+b) False
+Explanation: A data warehouse can include technologies like RDBMS, NoSQL, and other systems.
+
+Correct Answer:
+a) Support for inserting, updating, or deleting small amounts of data
+Explanation: Relational databases are designed for efficient handling of small-scale data operations.
+
+Correct Answer:
+c) Document-based
+Explanation: Document-based databases like MongoDB store data in documents and are suitable for analytics.
+
+Correct Answer:
+b) Data Mart
+Explanation: A Data Mart is a smaller, purpose-specific version of a data warehouse.
+
+Correct Answer:
+b) ELT process (Extract-Load-Transform)
+Explanation: ELT processes load raw data into a data lake before transforming it.
+
+Correct Answer:
+a) Data integration covers extraction, transformation, merging, and delivery of quality data for analytical purposes.
+Explanation: Data integration combines and processes data from different sources to make it useful for analysis.
