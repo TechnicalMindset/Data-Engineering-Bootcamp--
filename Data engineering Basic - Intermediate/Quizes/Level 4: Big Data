@@ -1,0 +1,82 @@
+Question 1
+💡 What does the attribute "Velocity" imply in the context of Big Data?
+
+The speed at which data accumulates
+Scale of data
+Diversity of data
+Quality and origin of data
+Question 2
+💡 Which of the Big Data processing tools provides distributed storage and processing of Big Data?
+
+Hive
+ETL
+Spark
+Hadoop
+Question 3
+💡 What does the attribute "Veracity" imply in the context of Big Data?
+
+Scale of data
+The speed at which data accumulates
+Diversity of the type and sources of data
+Accuracy and conformity of data to facts
+Question 4
+💡 What does the attribute "Value" imply in the context of Big Data?
+
+The diversity of the type and sources of data
+Our ability and need to turn data into value
+The speed at which data accumulates
+The accuracy and conformity of data to facts
+Question 5
+💡 Apache Spark is a general-purpose data processing engine. What is one of its key use cases?
+
+Perform complex analytics in real-time
+Consolidate data across the organization
+Fast recovery from hardware failures
+Scalable and reliable Big Data storage
+Question 6
+💡 Which Big Data processing tool is used for reading, writing, and managing large datasets stored in HDFS or Apache HBase?
+
+Hadoop
+Spark
+ETL
+Hive
+📋 Answers to Section: Big Data
+The speed at which data accumulates.
+Hadoop.
+Accuracy and conformity of data to facts.
+Our ability and need to turn data into value.
+Perform complex analytics in real-time.
+Hive.
+🔍 Section 3: Data Platforms and Lifecycle
+Question 1
+💡 Which step is intrinsic to the "Data Storage and Integration Layer" of a data platform?
+
+Read data in batch or streaming modes from storage and apply transformations
+Transform and merge extracted data, either logically or physically
+Transfer data from sources to the platform in streaming or batch modes
+Deliver processed data to data consumers
+Question 2
+💡 Systems used for capturing high-volume transactional data need to be designed for faster response times to complex queries.
+
+True
+False
+Question 3
+💡 At what stage of the data lifecycle would you establish which third-party vendors in your supply chain will have access to your data?
+
+Data Storage
+Data Sharing
+Data Acquisition
+Data Processing
+Question 4
+💡 In which phase of the data lifecycle do you establish the data you need, the amount of data required, and its intended use?
+
+Data Retention
+Data Processing
+Data Sharing
+Data Acquisition
+📋 Answers to Section: Data Platforms and Lifecycle
+Transform and merge extracted data, either logically or physically.
+False.
+Data Sharing.
+Data Acquisition.
+🎉 End of Test 🎉
