@@ -1,0 +1,132 @@
+Here’s the rewritten version of your test with emojis added for emphasis and clear text separators:
+
+---
+
+# 🧠 **Data Engineering Test** 🧠  
+---
+
+### **Question 1**  
+🚀 **Which of these functional skills is important for the role of a data engineer?**  
+a) Ability to work with the software development lifecycle  
+b) Knowledge of mathematics  
+c) Experience with ETL tools  
+d) Inspecting data prepared for analysis to gain insights  
+
+---
+
+### **Question 2**  
+🏢 **Oracle Exadata, IBM Db2 Warehouse on Cloud, IBM Netezza Performance Server, and Amazon RedShift are examples of:**  
+a) NoSQL databases  
+b) ETL tools  
+c) Big data platforms  
+d) Data warehouses  
+
+---
+
+### **Question 3**  
+💾 **Data engineers manage the infrastructure required for data ingestion, processing, and storage.**  
+a) True  
+b) False  
+
+---
+
+# 📊 **Section 2: Final Test (Level 1)**  
+
+---
+
+### **Question 4**  
+🌐 **A modern data ecosystem includes a network of continually evolving entities. It includes:**  
+a) Data sources, enterprise data repository, business stakeholders, and tools, applications, and infrastructure to manage data  
+b) Social media sources, data repositories, and APIs  
+c) Data providers, databases, and programming languages  
+d) Data sources, databases, and programming languages  
+
+---
+
+### **Question 5**  
+🛠️ **Data engineers work within the data ecosystem to:**  
+a) Develop and maintain data architectures  
+b) Provide business intelligence solutions by monitoring data on different business functions  
+c) Analyze data for actionable insights  
+d) Analyze data for deriving insights  
+
+---
+
+### **Question 6**  
+🎯 **The goal of data engineering is to make quality data available for fact-finding and decision-making. Which of these statements captures the process of data engineering?**  
+a) Processing data and making it available to users securely  
+b) Collecting, processing, and storing data  
+c) Collecting, processing, and making data available to users securely  
+d) Collecting, processing, storing, and making data available to users securely  
+
+---
+
+### **Question 7**  
+🏞️ **Data extracted from disparate sources can be stored in:**  
+a) Databases only  
+b) Data lakes only  
+c) Databases, data warehouses, data lakes, or any other type of data repository  
+d) Data warehouses only  
+
+---
+
+### **Question 8**  
+📈 **From the provided list, select the three emerging technologies that are shaping today’s data ecosystem:**  
+a) Big Data, Internet of Things, and Dashboarding  
+b) Cloud Computing, Internet of Things, and Dashboarding  
+c) Cloud Computing, Machine Learning, and Big Data  
+d) Machine Language, Cloud Computing, and Internet of Things  
+
+---
+
+# ✅ **Answers and Explanations**  
+
+---
+
+### **Answer 1**  
+Correct Answer: **a) Ability to work with the software development lifecycle**  
+Explanation: Data engineers must navigate various phases of the software development lifecycle, including ideation, architecture, design, prototyping, testing, deployment, and monitoring.
+
+---
+
+### **Answer 2**  
+Correct Answer: **d) Data warehouses**  
+Explanation: Oracle Exadata, IBM Db2 Warehouse on Cloud, IBM Netezza Performance Server, and Amazon RedShift are widely used data warehouses.
+
+---
+
+### **Answer 3**  
+Correct Answer: **a) True**  
+Explanation: Managing the infrastructure for data ingestion, processing, and storage is a key responsibility of data engineers.
+
+---
+
+### **Answer 4**  
+Correct Answer: **a) Data sources, enterprise data repository, business stakeholders, and tools, applications, and infrastructure to manage data**  
+Explanation: These components form the backbone of a modern data ecosystem.
+
+---
+
+### **Answer 5**  
+Correct Answer: **a) Develop and maintain data architectures**  
+Explanation: Creating and maintaining data architectures is critical to ensuring data is available for operations and analysis.
+
+---
+
+### **Answer 6**  
+Correct Answer: **d) Collecting, processing, storing, and making data available to users securely**  
+Explanation: Data engineering encompasses all these steps to ensure secure and accessible data.
+
+---
+
+### **Answer 7**  
+Correct Answer: **c) Databases, data warehouses, data lakes, or any other type of data repository**  
+Explanation: Data from diverse sources can be stored in various types of repositories.
+
+---
+
+### **Answer 8**  
+Correct Answer: **c) Cloud Computing, Machine Learning, and Big Data**  
+Explanation: These emerging technologies are revolutionizing the data ecosystem, enabling advanced analytics and storage solutions.  
+
+🎉 **End of Test** 🎉  
