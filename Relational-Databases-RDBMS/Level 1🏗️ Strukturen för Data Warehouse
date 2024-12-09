@@ -9,6 +9,7 @@ Filsystem (t.ex. CSV, JSON, loggfiler).
 API:er och tredjepartssystem (t.ex. Salesforce, Google Analytics).
 📡 Hur används det?
 Dessa källor levererar rådata som behöver bearbetas innan det används.
+
 2️⃣ ETL/ELT-processer (Data Pipeline)
 📌 Vad är det?
 Data rensas, bearbetas och flyttas till nästa steg.
@@ -17,26 +18,38 @@ Transformera: Förbättra och rensa data, t.ex. formatera datum, ta bort dubblet
 Ladda: Flytta den bearbetade datan till lagret.
 ⚙️ Hur hänger det ihop?
 ETL-processen fungerar som en bro mellan datakällor och lagringssystem.
+
 3️⃣ Staging Area
 📌 Vad är det?
 Ett tillfälligt område där data "parkeras" innan den går in i lagret.
+
 🗂️ Hur används det?
 Tillfällig lagring för att kontrollera datakvalitet.
 Sortering av data innan den flyttas vidare.
+
+
 🛤️ Hur kopplas det?
 Det är kopplat mellan ETL-processen och data warehouse.
+
+
 4️⃣ Data Warehouse
+
 📌 Vad är det?
 Huvudlagret där all bearbetad data lagras.
+
 🏛️ Hur används det?
 Strukturerad data organiseras i tabeller, som i en relationsdatabas.
 Data är redo att användas för analyser.
+
 🗺️ Hur är det kopplat?
 Tar emot data från staging area.
 Levererar data till analyser och rapporter.
+
 5️⃣ Data Marts
+
 📌 Vad är det?
 Små delar av data warehouse, skapade för specifika ändamål (t.ex. försäljning, HR).
+
 🛍️ Hur används det?
 Mindre dataset som används av specifika team.
 Ger snabbare och enklare åtkomst för analyser.
