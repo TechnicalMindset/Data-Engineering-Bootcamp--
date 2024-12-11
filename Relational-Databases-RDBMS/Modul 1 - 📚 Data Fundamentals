@@ -1,0 +1,92 @@
+
+📚 What is data?
+Data is unorganized information that is processed to become meaningful. It can be:
+
+Facts and observations 🧾
+Numbers and symbols 🔢
+Images and multimedia 🎨
+
+⚙️ Three main data structures
+1️⃣ Structured data
+
+Definition: Data that is organized in a predefined format, such as tables with rows and columns.
+Examples:
+Excel spreadsheets 📊
+SQL databases 🗄️
+Online forms 📥
+
+2️⃣ Unstructured data
+
+Definition: Data without a specific format or organization.
+Examples:
+Text files (documents in free form) 📄
+Media files (images, sound, video) 🎥
+Social content (posts, tweets) 📱
+
+3️⃣ Semi-structured data
+
+Definition: Data with some organization, often in hierarchical structures or with tags.
+Examples:
+JSON files 🗂️
+XML documents 💾
+Emails 📧
+
+🔧 Common file formats for data storage and transfer
+Delimited text files: CSV, TSV 📑
+Spreadsheets: Excel format 📋
+Language files: JSON, XML 🌐
+
+🏢 Data storage solutions
+1️⃣ Relational databases (RDBMS)
+
+Organized data in related tables.
+Examples: MySQL, SQL Server, Oracle 🖥️
+Use: OLTP systems for daily business transactions 💼
+
+2️⃣ Non-relational databases
+
+Flexible handling of unstructured and semi-structured data.
+Examples: MongoDB, Cassandra, Redis 🌟
+
+3️⃣ OLAP systems
+
+Analysis of large datasets.
+Use: Generate insights and forecasts 📊
+
+✅ Questions to reinforce your understanding
+Questions:
+1️⃣ What is the difference between structured and unstructured data?
+2️⃣ What are three examples of semi-structured data?
+3️⃣ What are relational databases primarily used for?
+4️⃣ Give examples of file formats for data storage and transfer.
+5️⃣ How does OLAP differ from OLTP?
+
+📝 Answers to the questions
+1️⃣ The difference between structured and unstructured data:
+
+Structured data is organized and follows a schema (e.g., tables in SQL).
+Unstructured data has no specific format (e.g., images or text files).
+
+2️⃣ Examples of semi-structured data:
+
+JSON files 🗂️
+XML documents 💾
+Emails 📧
+
+3️⃣ Relational databases are primarily used for:
+
+Daily business transactions (OLTP), such as customer purchases and personnel management.
+
+4️⃣ Examples of file formats:
+
+CSV, TSV 📑
+Excel 📋
+JSON, XML 🌐
+
+5️⃣ The difference between OLAP and OLTP:
+
+OLAP: Analyzes large datasets for insights 📊.
+OLTP: Manages daily transactions 💼.
+
+
+
