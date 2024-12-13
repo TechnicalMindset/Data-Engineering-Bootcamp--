@@ -61,13 +61,17 @@ Examples: Switching from SSD to cloud-based storage.
 Data can be moved between storage devices without affecting applications.
 Examples: Migrating data from a local server to a cloud platform.
 
-✅ Questions and Answers
+
+
+
+## ✅ Questions and Answers
+
 Questions for understanding
 1️⃣ What is the difference between information models and data models?
 2️⃣ What are the most common types of data models, and what are their use cases?
 3️⃣ How can logical and physical data independence contribute to flexible database management?
 
-📝 Answers
+## 📝 Answers
 1️⃣ The difference between information and data models 💡
 
 Information models: Abstract and used to understand business relationships.
