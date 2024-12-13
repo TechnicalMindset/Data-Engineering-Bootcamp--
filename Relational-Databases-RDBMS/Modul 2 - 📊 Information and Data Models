@@ -20,8 +20,8 @@ Examples:
 🔧 Differences between the models
 
 - Aspect	Information model	Data model
-Detail level	Abstract	Concrete
-Users	Business analysts	Database designers
+- Detail level	Abstract	Concrete
+- Users	Business analysts	Database designers
 Focus	Business concepts	Technical implementation
 
 📂 Types of data models
