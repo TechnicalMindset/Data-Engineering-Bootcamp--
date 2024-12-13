@@ -1,6 +1,8 @@
 
-💡 Definitions and Key Concepts
-1️⃣ Information model 📊
+### 💡 Definitions and Key Concepts ### 
+
+
+## 1️⃣ Information model 📊
 
 What it is: An abstract representation of entities, their attributes, and relationships.
 Purpose: Provides an organized view of data to understand its structure and connections.
@@ -8,7 +10,7 @@ Examples:
 Business model for customer management where customers and their orders are represented abstractly.
 Flowchart describing workflows without technical details.
 
-2️⃣ Data model ⚙️
+## 2️⃣ Data model ⚙️
 
 - What it is: A concrete plan for how data is organized and stored in a database system.
 - Purpose: Translates information models into technical implementations.
@@ -22,9 +24,11 @@ Examples:
 - Aspect	Information model	Data model
 - Detail level	Abstract	Concrete
 - Users	Business analysts	Database designers
-Focus	Business concepts	Technical implementation
+- Focus	Business concepts	Technical implementation
 
-📂 Types of data models
+
+## 📂 Types of data models
+
 1️⃣ Relational model 🛠️
 
 Stores data in tables with rows and columns.
