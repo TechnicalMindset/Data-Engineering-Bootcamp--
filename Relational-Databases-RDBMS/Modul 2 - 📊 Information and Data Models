@@ -14,8 +14,8 @@ Flowchart describing workflows without technical details.
 - Purpose: Translates information models into technical implementations.
 
 Examples:
-SQL schema defining tables for customers and their orders.
-Tables with primary and foreign keys to describe relationships.
+- SQL schema defining tables for customers and their orders.
+- Tables with primary and foreign keys to describe relationships.
 
 🔧 Differences between the models
 
