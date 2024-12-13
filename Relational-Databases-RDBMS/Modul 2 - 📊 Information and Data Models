@@ -10,7 +10,7 @@ Flowchart describing workflows without technical details.
 
 2️⃣ Data model ⚙️
 
-What it is: A concrete plan for how data is organized and stored in a database system.
+- What it is: A concrete plan for how data is organized and stored in a database system.
 Purpose: Translates information models into technical implementations.
 Examples:
 SQL schema defining tables for customers and their orders.
