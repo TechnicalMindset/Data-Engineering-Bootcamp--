@@ -1,0 +1,68 @@
+
+### **What is Data?** 
+
+Data is unorganized information that is processed to give meaning. It can consist of facts, numbers, images, and observations that can be interpreted to provide insights. Depending on its structure, data can be classified into three main types: **structured**, **semi-structured**, and **unstructured**.
+
+---
+
+### 1️⃣ **Structured Data** 
+
+Structured data has a well-defined and fixed structure, allowing it to be organized into rows and columns, as in a database. This makes it easy to store, process, and analyze using standard tools and methods.
+
+#### **Examples of Sources of Structured Data**:
+- **SQL Databases**
+- **OLTP Systems** (Online Transaction Processing) for business transactions
+- **Spreadsheets** like Excel or Google Sheets
+- **Online Forms**
+- **Sensors**, e.g., GPS and RFID tags
+- **Network and web server logs**
+
+Structured data is typically stored in **relational databases** or **SQL databases**, and is ideal for use in standardized analyses.
+
+---
+
+### 2️⃣ **Semi-structured Data** 
+
+Semi-structured data has some organization but does not follow a strict schema like structured data. It uses tags and elements, or metadata, to group and organize data in a hierarchical structure.
+
+#### **Examples of Sources of Semi-structured Data**:
+- **Emails**
+- **XML and other markup languages**
+- **Binary executable files**
+- **TCP/IP packets**
+- **Zipped files**
+- **Integration of data from various sources**
+- **XML and JSON**, used to define tags and attributes that store data in a hierarchical form
+
+Semi-structured data is not as easy to analyze as structured data, but it is more flexible.
+
+---
+
+### 3️⃣ **Unstructured Data** 
+
+Unstructured data lacks a clear structure and cannot be organized into tables with rows and columns like structured data. It does not follow specific rules or formats and can be very heterogeneous.
+
+#### **Examples of Sources of Unstructured Data**:
+- **Webpages**
+- **Social media feeds**
+- **Images** in various file formats (JPEG, GIF, PNG)
+- **Video and audio files**
+- **Documents** (e.g., Word documents, PDFs, PowerPoint presentations)
+- **Media logs**
+- **Surveys**
+
+Unstructured data is often stored in files and documents that may require manual analysis or in **NoSQL databases** which are better equipped to handle this type of data.
+
+---
+
+### 4️⃣ **Summary**
+
+- **Structured data** is well-organized and can be stored and analyzed using traditional methods and tools.
+- **Semi-structured data** is partially organized and uses tags and metadata to create hierarchical structures.
+- **Unstructured data** is disorganized and cannot be processed in the same format as the other two types.
+
+
+
+
+
+
