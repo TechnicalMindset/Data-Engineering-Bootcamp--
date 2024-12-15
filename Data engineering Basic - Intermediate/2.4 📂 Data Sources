@@ -1,0 +1,73 @@
+# **Data Sources 1️⃣** 
+
+---
+
+Data sources have become more dynamic and versatile than ever before. Here are some common sources of data used in a data engineer's work:
+
+---
+
+### **Relational Databases 🔧**
+
+- **Examples**: SQL Server, Oracle, MySQL, IBM DB2
+- Used to store data in a structured way and can serve as a source for analysis. For example, data from a retail transaction system can be used to analyze sales across different regions.
+
+---
+
+### **Flat Files 📂**
+
+- Flat files store data in a plain text format where each line represents a record, and each value is separated by delimiters such as commas or tabs.
+- **Examples**: CSV and TSV
+- These files can be mapped to a single table, in contrast to relational databases, which use multiple tables.
+
+---
+
+### **Spreadsheet Files 📊**
+
+- Spreadsheets are a type of flat file that organizes data in a tabular format with rows and columns.
+- **Examples**: Microsoft Excel, Google Sheets
+- These files may also contain additional features like formulas and formatting. Spreadsheets can include multiple tabs that can be mapped to different tables.
+
+---
+
+### **XML (Extensible Markup Language) 📝**
+
+- XML files store data using tags and can handle more complex data structures, such as hierarchical structures.
+- **Use case**: Online surveys, account statements, and other types of semi-structured data.
+
+---
+
+### **APIs and Web Services 🌐**
+
+- APIs (Application Programming Interfaces) and web services allow applications to interact and retrieve data for processing or analysis.
+- **Examples**: Twitter API, Facebook API, stock market APIs
+- APIs are used to fetch data in various formats, including JSON, XML, and HTML.
+
+---
+
+### **Web Scraping 🕸️**
+
+- Web scraping is used to extract data from web pages based on defined parameters, such as contact information or product data from e-commerce websites.
+- **Popular Tools**: BeautifulSoup, Scrapy, Pandas, Selenium
+
+---
+
+### **Data Streams 📈**
+
+- Data streams are continuous flows of data from sources such as IoT devices, GPS, social media, and more.
+- **Examples**: Stock market data, surveillance streams, social media feeds
+- Popular tools for processing data streams: Apache Kafka, Apache Spark Streaming, Apache Storm
+
+---
+
+### **RSS Feeds 🔄**
+
+- RSS feeds are used to capture updated data from online forums and news sites and stream it to users in real-time.
+
+---
+
+This variety of data sources enables the analysis and processing of data from a wide range of domains, requiring data engineers to master various technologies and tools.
+
+---
+
+
+
