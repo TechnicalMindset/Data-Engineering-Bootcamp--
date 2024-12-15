@@ -1,0 +1,45 @@
+# **Common File Formats 🔧** 
+
+---
+
+Here are some common file formats used within the data engineer's ecosystem:
+
+---
+
+### 1️⃣ **Delimited Text Files (CSV, TSV)** 
+
+Delimited text files are used to store data where each row or record contains values separated by a delimiter (e.g., comma, tab, colon). These files can be processed by almost any application and are easy to analyze.
+
+#### **Examples**:
+- **CSV (Comma-Separated Values)**: The delimiter is a comma.
+- **TSV (Tab-Separated Values)**: The delimiter is a tab, which can be useful if the text data contains commas.
+
+---
+
+### 2️⃣ **Microsoft Excel Open XML Spreadsheet (XLSX)**
+
+- **XLSX** is an XML-based file format used by Microsoft Excel. It can contain multiple worksheets organized into rows and columns, where each cell contains data.
+- **Advantages**: Compatible with other applications, secure, and cannot contain malicious code.
+
+---
+
+### 3️⃣ **Extensible Markup Language (XML)**
+
+- XML is a markup language that is both human-readable and machine-readable. It is self-describing and is used for transferring information over the internet.
+- **Advantages**: Platform-independent, programming language-independent, and simplifies data sharing between different systems.
+
+---
+
+### 4️⃣ **Portable Document Format (PDF)**
+
+- PDF is a file format developed by Adobe used to present documents independent of application, hardware, or operating system.
+- **Advantages**: Documents can be displayed the same way on all devices; commonly used for legal and financial documents.
+
+---
+
+### 5️⃣ **JavaScript Object Notation (JSON)**
+
+- JSON is a text-based, language-independent file format used for transferring structured data over the web.
+- **Advantages**: Easy to use and compatible with many browsers, making it popular for APIs and web services.
+
+---
