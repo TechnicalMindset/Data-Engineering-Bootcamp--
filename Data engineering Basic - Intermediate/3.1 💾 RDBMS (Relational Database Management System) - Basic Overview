@@ -1,0 +1,108 @@
+### **📊 Structure**
+
+- Data is organized into **tables** with **rows** (records) and **columns** (attributes).
+  - Example: A customer table with attributes such as **Company Name** and **Phone Number**.
+
+---
+
+### **🔗 Relationships**
+
+- Tables can be linked based on common fields, such as **Customer ID**, which connects a customer table with a transaction table.
+
+---
+
+### **⚙️ SQL**
+
+- **SQL** (Structured Query Language) is the standard query language used to retrieve and process data.
+
+---
+
+### **🔄 Flexibility**
+
+- Ability to modify tables and columns dynamically while the database is in operation.
+
+---
+
+### **📉 Reduced Redundancy**
+
+- Data is stored in a way that minimizes duplication, promoting efficiency.
+
+---
+
+### **☁️ Cloud Services**
+
+- Popular cloud-based solutions like **Amazon RDS** and **Google Cloud SQL** enable scalability and access to powerful storage resources.
+
+---
+
+### **🛡️ Security & Backup**
+
+- Easy export and import options make **backup** and **disaster recovery** simple to manage.
+
+---
+
+### **⚖️ ACID Compliance**
+
+- Ensures data integrity and consistency during transactions through **ACID** (Atomicity, Consistency, Isolation, Durability) compliance.
+
+---
+
+### **🔄 Use Cases**
+
+- Suitable for **online transaction processing** (OLTP), **data warehousing**, and **IoT solutions**.
+
+> Note: This is an overview of RDBMS, but there are limitations when dealing with semi-structured or unstructured data. 🛑
+
+---
+
+---
+
+# 🗃️ NoSQL - Overview
+
+---
+
+### **🔍 Flexibility**
+
+- **NoSQL** offers **schemaless** or **flexible** data storage systems that handle both structured and unstructured data. It is widely used for cloud, big data, and modern applications.
+
+---
+
+### **💾 Database Models**
+
+- Four main types of NoSQL databases:
+  1. **🔑 Key-Value**: Stores data as key-value pairs, ideal for user sessions and caching.
+     - Example: **Redis**, **DynamoDB**.
+  2. **📄 Document-Based**: Stores data in documents (e.g., JSON), which can be indexed and queried.
+     - Example: **MongoDB**, **CouchDB**.
+  3. **📊 Column-Based**: Data is stored in columns instead of rows, which speeds up access for certain types of data.
+     - Example: **Cassandra**, **HBase**.
+  4. **🔗 Graph-Based**: Used to represent relationships between data in the form of nodes and edges.
+     - Example: **Neo4J**, **CosmosDB**.
+
+---
+
+### **⚡ Benefits**
+
+- NoSQL is excellent for handling large volumes of data and provides better scalability and performance for distributed systems and cloud architectures.
+
+---
+
+### **🔄 Design Flexibility**
+
+- NoSQL databases are typically **schema-agnostic** and can handle unstructured data, making it easier to store and manipulate data.
+
+---
+
+### **💰 Cost-Effectiveness**
+
+- NoSQL uses cheaper hardware and is highly scalable, making it more cost-effective than traditional relational databases.
+
+---
+
+### **⚖️ Comparison with RDBMS**
+
+- **RDBMS** is stricter and offers **ACID** compliance for transactional security, while **NoSQL** provides more flexibility but without the same guarantees for reliability.
+
+---
+
+> **NoSQL** is best suited for dynamic, high-performance, and scalable applications! 🌐📈
