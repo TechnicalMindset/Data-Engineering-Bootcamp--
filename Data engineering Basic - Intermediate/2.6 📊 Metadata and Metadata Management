@@ -1,0 +1,70 @@
+## What is Metadata? 📝
+
+Metadata is data that provides information about other data. Within databases and data warehouses, there are three main types:
+
+1. **Technical Metadata**
+2. **Process Metadata**
+3. **Business Metadata**
+
+---
+
+## 1. Technical Metadata 🗂️
+
+- Defines database structures and technical aspects.
+- **Examples**:
+  - Tables in a database
+  - Data catalogs describing tables, columns, and data types
+- **Advantages**: Helps to structure and organize data effectively.
+
+---
+
+## 2. Process Metadata ⚙️
+
+- Describes the processes running behind business systems like data warehouses or CRM systems.
+- Includes things like start and end times, disk usage, and data transfers.
+- **Advantages**: Crucial for troubleshooting and optimizing workflows.
+
+---
+
+## 3. Business Metadata 📈
+
+- Describes data in a way that is easy for business users to understand.
+- Includes information on how data is collected, what it measures, and how it's linked to other data sources.
+- **Advantages**: Helps users find and analyze relevant data.
+
+---
+
+## Metadata Management 🛠️
+
+- Involves developing and administering policies to effectively manage metadata and make it accessible across the organization.
+- **Goal**: Create a reliable and user-friendly data catalog that makes it easy to find and organize data.
+- **Tools**: IBM InfoSphere, Oracle Warehouse Builder, Microsoft Azure Data Catalog, and others.
+
+---
+
+## Why is Metadata Management Important? 🔍
+
+- **Advantages**:
+  - Improves data discovery and usability.
+  - Enables data access and facilitates governance.
+  - Helps understand business and data context, improving data governance and data lineage (how data flows through systems).
+- **Data Governance**: Focuses on accessibility, usability, consistency, and data security.
+
+---
+
+## Popular Tools for Metadata Management ⚙️
+
+- IBM InfoSphere
+- Oracle Warehouse Builder
+- Microsoft Azure Data Catalog
+- Talend Data Fabric
+- Alation Data Catalog
+- Informatica Enterprise Data Catalog
+
+---
+
+## Summary 📘
+
+- Metadata is data that provides information about other data and is divided into technical, process, and business metadata.
+- Metadata management focuses on creating and maintaining an efficient data catalog that improves data discovery and governance.
+- Popular tools for metadata management include IBM InfoSphere and Microsoft Azure Data Catalog.
