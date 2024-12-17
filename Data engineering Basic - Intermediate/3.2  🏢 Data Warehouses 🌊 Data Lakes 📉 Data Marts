@@ -1,0 +1,96 @@
+# 🏢 Data Warehouses (Datalager)
+
+---
+
+### **🔑 Purpose**
+
+- A central repository that stores integrated data from multiple sources for **reporting** and **analysis**.
+
+---
+
+### **📊 Data**
+
+- Stores both **current** and **historical** data that has been cleaned, adapted, and categorized to be analysis-ready.
+
+---
+
+### **🔄 Architecture**
+
+- **Three-tier architecture**:
+  1. Database servers (relational or NoSQL)
+  2. OLAP (Online Analytical Processing) server for analysis
+  3. Frontend for user access
+
+---
+
+### **🌥️ Cloud-Based**
+
+- Benefits such as **lower costs**, **unlimited storage**, and **faster recovery** when data is stored in the cloud.
+
+---
+
+### **💡 Examples**
+
+- **Teradata**, **Oracle Exadata**, **Amazon RedShift**, **Snowflake**
+
+---
+
+---
+
+# 📉 Data Marts (Datamarts)
+
+---
+
+### **🔍 Purpose**
+
+- A specialized subset of the data warehouse, tailored for specific business needs or user groups (e.g., **sales** or **finance**).
+
+---
+
+### **🗂️ Types**
+
+- Dependent, independent, and hybrid data marts, based on where data is sourced and how it is processed.
+
+---
+
+### **⏱️ Benefits**
+
+- Streamlines business processes with faster response times and cost-effective access to relevant data.
+
+---
+
+---
+
+# 🌊 Data Lakes (Datasjöar)
+
+---
+
+### **🌐 Purpose**
+
+- Stores large volumes of **structured**, **semi-structured**, and **unstructured** data in its original format.
+
+---
+
+### **🔄 Flexibility**
+
+- Data is loaded without needing to define structure or schema beforehand and can be transformed based on analytical needs.
+
+---
+
+### **⚙️ Technologies**
+
+- Utilizes systems like **Amazon S3** and **Apache Hadoop** for large-scale processing and storage.
+
+---
+
+### **💾 Benefits**
+
+- Supports all types of data and provides the flexibility to scale from **terabytes** to **petabytes**. Facilitates smooth data exploration and reuse for various use cases.
+
+---
+
+---
+
+# 🔑 Summary
+
+Data warehouses, data marts, and data lakes all aim to store data for analysis and insights but differ in their architecture, use cases, and data management. The choice between them depends on the organization’s specific needs and technological infrastructure! 🌟
