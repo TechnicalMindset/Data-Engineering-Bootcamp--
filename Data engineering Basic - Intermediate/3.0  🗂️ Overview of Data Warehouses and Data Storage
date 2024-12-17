@@ -1,0 +1,59 @@
+### What is a Data Warehouse? 🗃️
+
+- A **data warehouse** is a collection of data that has been organized and isolated for business operations, reporting, and data analysis.
+- Data warehouses can range from small to large database infrastructures that manage and store vast amounts of data.
+
+---
+
+## Databases and Database Management Systems (DBMS) 💾
+
+- A **database** is a collection of information designed for input, storage, search, and modification.
+- A **DBMS** (Database Management System) is software that creates and maintains databases, allowing for storing and retrieving information through queries.
+- There are two types of databases:
+  - **Relational** Databases
+  - **Non-relational** Databases (NoSQL)
+
+---
+
+## Relational Databases (RDBMS) 📊
+
+- **RDBMS** organizes data in tables using rows and columns according to a defined schema.
+- It uses **SQL** (Structured Query Language) to manage and query data.
+- Optimized for complex data operations and handling large datasets.
+
+---
+
+## Non-Relational Databases (NoSQL) 🔄
+
+- **NoSQL** databases were developed to handle large volumes of data quickly and flexibly, especially for use cases such as IoT and social media.
+- These databases use a **schemaless** format for storage, allowing more flexible data models.
+
+---
+
+## Data Warehouses and the ETL Process 🔄
+
+- **ETL** (Extract, Transform, Load) is the process that helps extract data from various sources, transform it into a usable format, and load it into a company's data warehouse.
+- Data warehouses act as central repositories to consolidate information from different sources for analysis and business intelligence.
+
+---
+
+## Data Marts and Data Lakes 🌊
+
+- **Data Marts** and **Data Lakes** are also used to manage and organize large amounts of data.
+  - **Data Marts** focus on specific business areas or departments.
+  - **Data Lakes** store large amounts of unstructured or semi-structured data, allowing for more flexible data storage and access.
+
+---
+
+## Big Data Stores 🏢
+
+- **Big Data Stores** are distributed systems designed to store and process very large amounts of data.
+- They are used to scale up and process large data volumes efficiently.
+
+---
+
+## Summary 📊
+
+- Data warehouses and databases play a central role in data storage and management to support reporting, analysis, and decision-making.
+- Relational databases (RDBMS) and non-relational databases (NoSQL) are used based on needs and data types.
+- Data warehouses and Big Data Stores help streamline data integration, storage, and processing to meet modern demands for data analysis and business intelligence.
