@@ -2,30 +2,31 @@
 
 | **Term**                    | **Definition**                                                                                                                                                               |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **AI**                      | AI (artificial intelligence) is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.               |
-| **Application Development** | The process of planning, designing, creating, testing, and deploying a software application to perform various business operations.                                         |
+| **AI**                      | AI (artificial intelligence) is the ability of a digital computer or computer-controlled robot to perform tasks <br> commonly associated with intelligent beings.           |
+| **Application Development** | The process of planning, designing, creating, testing, and deploying a software application to <br> perform various business operations.                                         |
 | **Arithmetic Operations**   | Basic calculations like addition, subtraction, multiplication, and division. <br> Also called algebraic or mathematical operations.                                         |
-| **Array of Numbers**        | A set of numbers or objects that follow a pattern, arranged in rows and columns, often used to explain multiplication.                                                     |
-| **Assignment Operator**     | A type of binary operator in Python that modifies the variable on the left using the value on the right. <br> Symbol: `=`.                                                   |
+| **Array of Numbers**        | A set of numbers or objects that follow a pattern, arranged in rows and columns, <br> often used to explain multiplication.                                                     |
+| **Assignment Operator**     | A type of binary operator in Python that modifies the variable on the left <br> using the value on the right. <br> Symbol: `=`.                                                   |
 | **Asterisk**                | Symbol `*` used to perform various operations in Python.                                                                                                                   |
-| **Backslash**               | An escape character in Python strings used to treat the following character in a special way or define raw strings. <br> Symbol: `\`.                                      |
+| **Backslash**               | An escape character in Python strings used to treat the following character <br> in a special way or define raw strings. <br> Symbol: `\`.                                      |
 | **Boolean**                 | Logical system representing true (1) and false (0).                                                                                                                        |
 | **Colon**                   | Represents an indented block or used to fetch data, such as slicing in Python. <br> Example: `list[start:stop:step]`.                                                       |
 | **Concatenate**             | Linking strings or elements in a chain or series.                                                                                                                         |
-| **Data Engineering**        | Involves blending, testing, and optimizing data from numerous sources to turn raw data into actionable insights.                                                           |
-| **Data Science**            | An interdisciplinary field focusing on extracting knowledge from large datasets, preparing data for analysis, and presenting findings to inform decisions.                 |
-| **Data Type**               | Refers to the kind of value a variable holds and defines the operations allowed without causing an error.                                                                  |
+| **Data Engineering**        | Involves blending, testing, and optimizing data from numerous sources <br> to turn raw data into actionable insights.                                                           |
+| **Data Science**            | An interdisciplinary field focusing on extracting knowledge from large datasets, <br> preparing data for analysis, and presenting findings to inform decisions.                 |
+| **Data Type**               | Refers to the kind of value a variable holds and defines the operations <br> allowed without causing an error.                                                                  |
 | **Double Quote**            | Symbol `"` used to represent strings in Python.                                                                                                                           |
-| **Escape Sequence**         | A combination of characters starting with an escape character (e.g., `\`) to perform a function or special command.                                                       |
+| **Escape Sequence**         | A combination of characters starting with an escape character (e.g., `\`) <br> to perform a function or special command.                                                       |
 | **Expression**              | A combination of operators and operands that evaluates to a value.                                                                                                        |
-| **Float**                   | Python function `float()` returns a floating-point number from a number or string.                                                                                        |
+| **Float**                   | Python function `float()` returns a floating-point number from a number <br> or string.                                                                                        |
 | **Forward Slash**           | Symbol `/` used in various Python operations.                                                                                                                             |
-| **Immutable**               | Objects that cannot be changed after creation, such as strings, integers, and tuples.                                                                                      |
+| **Immutable**               | Objects that cannot be changed after creation, such as strings, integers, <br> and tuples.                                                                                      |
 | **Integer**                 | Whole numbers, including zero, positive, and negative integers (e.g., -3, 0, 5).                                                                                          |
-| **Manipulate**              | The process of modifying a string or creating a new one by altering existing content.                                                                                      |
-| **Negative Indexing**       | Access elements in sequences like lists or strings from the end using negative numbers.                                                                                   |
-| **Operators in Python**     | Symbols or keywords used to perform operations on variables and values (e.g., `+`, `-`, `*`).                                                                             |
+| **Manipulate**              | The process of modifying a string or creating a new one by altering <br> existing content.                                                                                      |
+| **Negative Indexing**       | Access elements in sequences like lists or strings from the end using <br> negative numbers.                                                                                   |
+| **Operators in Python**     | Symbols or keywords used to perform operations on variables and values <br> (e.g., `+`, `-`, `*`).                                                                             |
 | **Parentheses**             | Used to call objects or group expressions.                                                                                                                                |
 | **Slicing in Python**       | Extract a portion of a sequence like a list or string. <br> Example: `list[start:stop:step]`.                                                                               |
-| **Special Characters**      | Non-alphanumeric symbols like `@`, `#`, or punctuation marks used in strings or commands.                                                                                  |
+| **Special Characters**      | Non-alphanumeric symbols like `@`, `#`, or punctuation marks used <br> in strings or commands.                                                                                  |
 | **Strings**                 | In Python, strings are arrays of bytes representing Unicode characters.                                                                                                    |
+                                                                                         |
