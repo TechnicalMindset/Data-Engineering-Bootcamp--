@@ -120,13 +120,13 @@ list_from_tuple = list(my_tuple)
 
 
 4️⃣ Packing and Unpacking Tuples
-python
-Kopiera kod
 # Packing
 tuple_pack = 1, 2, 3
 
 # Unpacking
 a, b, c = tuple_pack
+
+---
 
 ## 🆚 Differences Between Lists and Tuples
 
@@ -137,10 +137,11 @@ a, b, c = tuple_pack
 | **Use Case**     | For data that changes         | For constant data             |
 
 
+
 🚀 Tips for Handling Large Data Sets
+
 1️⃣ Efficiently Creating Large Lists
-python
-Kopiera kod
+
 # List comprehensions for fast generation
 large_list = [x for x in range(1000000)]
 2️⃣ Using Generators
