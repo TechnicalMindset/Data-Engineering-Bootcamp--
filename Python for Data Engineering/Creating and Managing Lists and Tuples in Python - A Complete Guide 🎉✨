@@ -107,15 +107,18 @@ element = my_tuple[0]
 
 # Slice a portion of the tuple
 sub_tuple = my_tuple[1:3]
+
+
 2️⃣ Iterating Through Tuples
-python
-Kopiera kod
+
 for item in my_tuple:
     print(item)
+
+
 3️⃣ Converting Tuple to List
-python
-Kopiera kod
 list_from_tuple = list(my_tuple)
+
+
 4️⃣ Packing and Unpacking Tuples
 python
 Kopiera kod
