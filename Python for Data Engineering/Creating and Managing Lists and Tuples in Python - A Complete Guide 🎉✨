@@ -47,8 +47,7 @@ my_list.clear()
 
 
 3️⃣ Sorting and Ordering
-python
-Kopiera kod
+
 # Sort in ascending order
 my_list.sort()
 
