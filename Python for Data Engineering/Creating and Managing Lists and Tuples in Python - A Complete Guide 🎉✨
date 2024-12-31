@@ -107,11 +107,9 @@ tuple_pack = 1, 2, 3
 
 # Unpacking
 a, b, c = tuple_pack
-🆚 Differences Between Lists and Tuples
-Feature	List	Tuple
-Mutability	Mutable (can change)	Immutable (cannot change)
-Performance	Slower	Faster
-Usage	Data that changes	Constant data
+
+
+
 🚀 Tips for Handling Large Data Sets
 1️⃣ Efficiently Creating Large Lists
 python
