@@ -61,8 +61,7 @@ new_list = sorted(my_list)
 
 
 4️⃣ Slicing and Indexing
-python
-Kopiera kod
+
 # Access element at an index
 element = my_list[1]
 
@@ -71,9 +70,11 @@ sub_list = my_list[2:5]
 
 # Negative indexing
 last = my_list[-1]
+
+
+
 5️⃣ Iterating Through Lists
-python
-Kopiera kod
+
 for item in my_list:
     print(item)
 
@@ -82,9 +83,11 @@ squares = [x**2 for x in range(10)]
 📚 What is a Tuple?
 A tuple is an ordered and immutable sequence of objects. They are often used for data that should not be changed.
 
+---
+
+
 ✍️ Creating a Tuple
-python
-Kopiera kod
+
 # Empty tuple
 my_tuple = ()
 
@@ -93,10 +96,13 @@ my_tuple = (1, 2, 3)
 
 # Simple tuple without parentheses
 my_tuple = 1, 2, 3
+
+---
+
 🔧 Common Tuple Operations
+
 1️⃣ Indexing and Slicing
-python
-Kopiera kod
+
 # Access element at an index
 element = my_tuple[0]
 
