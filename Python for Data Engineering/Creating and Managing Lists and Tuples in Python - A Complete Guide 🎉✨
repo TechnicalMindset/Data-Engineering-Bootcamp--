@@ -2,6 +2,7 @@ Mastering lists and tuples in Python is a crucial step toward becoming an advanc
 
 📚 What is a List?
 A list in Python is a collection of items that can contain different data types, such as integers, strings, or even other lists. Lists are mutable, meaning you can modify their contents after creation.
+---
 
 ✍️ Creating a List
 
@@ -14,8 +15,11 @@ my_list = [1, 2, 3, 4, 5]
 # Mixed data types
 mixed_list = [1, "hello", 3.14, True]
 
+---
+
 🔧 Common List Functions and Methods
 
+---
 
 1️⃣ Adding Elements
 
@@ -53,6 +57,9 @@ my_list.sort(reverse=True)
 
 # Create a new sorted list
 new_list = sorted(my_list)
+
+
+
 4️⃣ Slicing and Indexing
 python
 Kopiera kod
