@@ -108,6 +108,13 @@ tuple_pack = 1, 2, 3
 # Unpacking
 a, b, c = tuple_pack
 
+## 🆚 Differences Between Lists and Tuples
+
+| **Feature**     | **List**                      | **Tuple**                     |
+|------------------|-------------------------------|--------------------------------|
+| **Mutability**   | Mutable (can be changed)      | Immutable (cannot be changed) |
+| **Performance**  | Slower                       | Faster                        |
+| **Use Case**     | For data that changes         | For constant data             |
 
 
 🚀 Tips for Handling Large Data Sets
