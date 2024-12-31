@@ -4,8 +4,7 @@ Mastering lists and tuples in Python is a crucial step toward becoming an advanc
 A list in Python is a collection of items that can contain different data types, such as integers, strings, or even other lists. Lists are mutable, meaning you can modify their contents after creation.
 
 ✍️ Creating a List
-python
-Kopiera kod
+
 # Empty list
 my_list = []
 
@@ -14,10 +13,12 @@ my_list = [1, 2, 3, 4, 5]
 
 # Mixed data types
 mixed_list = [1, "hello", 3.14, True]
+
 🔧 Common List Functions and Methods
+
+
 1️⃣ Adding Elements
-python
-Kopiera kod
+
 # Append adds a single element
 my_list.append(6)
 
@@ -26,9 +27,10 @@ my_list.extend([7, 8, 9])
 
 # Insert adds an element at a specific position
 my_list.insert(2, "New")
+
+
 2️⃣ Removing Elements
-python
-Kopiera kod
+
 # Remove deletes the first occurrence of a value
 my_list.remove(3)
 
@@ -37,6 +39,9 @@ last_element = my_list.pop()
 
 # Clear empties the entire list
 my_list.clear()
+
+
+
 3️⃣ Sorting and Ordering
 python
 Kopiera kod
